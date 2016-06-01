@@ -85,6 +85,7 @@ class react_native extends Component {
         );
     }
 }
+var tt=333;
 var styles = StyleSheet.create({
     container: {
         flex: 1,
